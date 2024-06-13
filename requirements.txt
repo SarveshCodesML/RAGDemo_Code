@@ -1,0 +1,7 @@
+openai
+tiktoken
+pdfplumber
+langchain
+azure-search-documents
+pandas
+openpyxl
